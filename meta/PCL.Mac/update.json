@@ -1,0 +1,14 @@
+{
+    "latestVersion": {
+        "name": "1.2.0",
+        "bundleVersion": 175,
+        "summary": "-",
+        "updateLogLinks": [],
+        "downloads": {
+            "github": "https://api.cylorine.studio/PCL.Mac-v1.2.0.zip",
+            "mirror": "https://api.cylorine.studio/PCL.Mac-v1.2.0.zip",
+            "size": 6598803,
+            "sha1": "1ccb5bf7ddeb249f748a0f98a82158d169880c1d"
+        }
+    }
+}
